@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18a959aa.css",
+    "main.js": "/static/js/main.be3e0eb1.js",
+    "static/js/314.f56430e7.chunk.js": "/static/js/314.f56430e7.chunk.js",
+    "static/js/890.e7840376.chunk.js": "/static/js/890.e7840376.chunk.js",
+    "static/media/the-saudis.wav": "/static/media/the-saudis.707155ba8a9a89f74288.wav",
+    "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
+    "static/media/circular-std-medium.otf": "/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
+    "static/media/antonio-regular.ttf": "/static/media/antonio-regular.7c89038493d2f1ce9ce6.ttf",
+    "static/media/discord.png": "/static/media/discord.4c718ea9ac193a7240d9.png",
+    "static/media/twitter.png": "/static/media/twitter.86ced53b0347a70d7cd5.png",
+    "static/media/discord-black.png": "/static/media/discord-black.c6e45d7b446d42bb7d78.png",
+    "static/media/twitter-black.png": "/static/media/twitter-black.1a9048e817adf4cdbc5b.png",
+    "static/media/saudi.png": "/static/media/saudi.7b9357911c29800418f6.png",
+    "static/media/crown.png": "/static/media/crown.1f547ae354ce71a59933.png",
+    "static/media/dune.png": "/static/media/dune.2d7495e0947ed07e92bf.png",
+    "static/media/barrel.png": "/static/media/barrel.7e2141b7b2cb5c4304f1.png",
+    "static/media/opensea-black.png": "/static/media/opensea-black.eb02332b57f93e9d70ec.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.18a959aa.css",
+    "static/js/main.be3e0eb1.js"
+  ]
+}
