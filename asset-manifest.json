@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ec8c28e.css",
-    "main.js": "/static/js/main.b49efa0e.js",
+    "main.css": "/static/css/main.01e590ff.css",
+    "main.js": "/static/js/main.73131c09.js",
     "static/js/314.f56430e7.chunk.js": "/static/js/314.f56430e7.chunk.js",
-    "static/js/724.bf58d83a.chunk.js": "/static/js/724.bf58d83a.chunk.js",
+    "static/js/890.e7840376.chunk.js": "/static/js/890.e7840376.chunk.js",
     "static/media/the-saudis.wav": "/static/media/the-saudis.707155ba8a9a89f74288.wav",
     "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
     "static/media/circular-std-medium.otf": "/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
@@ -17,13 +17,10 @@
     "static/media/dune.png": "/static/media/dune.2d7495e0947ed07e92bf.png",
     "static/media/barrel.png": "/static/media/barrel.7e2141b7b2cb5c4304f1.png",
     "static/media/opensea-black.png": "/static/media/opensea-black.eb02332b57f93e9d70ec.png",
-    "index.html": "/index.html",
-    "main.3ec8c28e.css.map": "/static/css/main.3ec8c28e.css.map",
-    "main.b49efa0e.js.map": "/static/js/main.b49efa0e.js.map",
-    "724.bf58d83a.chunk.js.map": "/static/js/724.bf58d83a.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.3ec8c28e.css",
-    "static/js/main.b49efa0e.js"
+    "static/css/main.01e590ff.css",
+    "static/js/main.73131c09.js"
   ]
 }
