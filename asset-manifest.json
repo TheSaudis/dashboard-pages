@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.37e34e44.css",
-    "main.js": "/static/js/main.6236baf4.js",
+    "main.js": "/static/js/main.1bdc2bf0.js",
     "static/js/314.f56430e7.chunk.js": "/static/js/314.f56430e7.chunk.js",
     "static/js/906.cf7a637d.chunk.js": "/static/js/906.cf7a637d.chunk.js",
     "static/media/the-saudis.wav": "/static/media/the-saudis.707155ba8a9a89f74288.wav",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.37e34e44.css",
-    "static/js/main.6236baf4.js"
+    "static/js/main.1bdc2bf0.js"
   ]
 }
