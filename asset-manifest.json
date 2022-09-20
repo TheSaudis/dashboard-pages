@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d862dca1.css",
-    "main.js": "/static/js/main.8c56d846.js",
+    "main.css": "/static/css/main.16f97d28.css",
+    "main.js": "/static/js/main.d669ffeb.js",
     "static/js/314.f56430e7.chunk.js": "/static/js/314.f56430e7.chunk.js",
     "static/js/906.8dde66ee.chunk.js": "/static/js/906.8dde66ee.chunk.js",
     "static/media/the-saudis.wav": "/static/media/the-saudis.707155ba8a9a89f74288.wav",
@@ -20,15 +20,17 @@
     "static/media/crown.png": "/static/media/crown.1f547ae354ce71a59933.png",
     "static/media/barrel.png": "/static/media/barrel.7e2141b7b2cb5c4304f1.png",
     "static/media/opensea-black.png": "/static/media/opensea-black.eb02332b57f93e9d70ec.png",
+    "static/media/minusio.ttf": "/static/media/minusio.bedb990d802a7fd04c23.ttf",
     "static/media/sun-icon.svg": "/static/media/sun-icon.4af05dc6ba7577157282a21b91f7258c.svg",
     "index.html": "/index.html",
     "static/media/x-icon.svg": "/static/media/x-icon.203e36d7c76cea62fb334003f8a207bb.svg",
     "static/media/disconnect-icon.svg": "/static/media/disconnect-icon.d7561ae9ea41706dc3163ad29ab3d085.svg",
     "static/media/search-icon.svg": "/static/media/search-icon.5814a44adbceaca20b4143b5ee9374e9.svg",
-    "static/media/moon-icon.svg": "/static/media/moon-icon.447b4812bbcf73b61bb03401e3d0c588.svg"
+    "static/media/moon-icon.svg": "/static/media/moon-icon.447b4812bbcf73b61bb03401e3d0c588.svg",
+    "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.d862dca1.css",
-    "static/js/main.8c56d846.js"
+    "static/css/main.16f97d28.css",
+    "static/js/main.d669ffeb.js"
   ]
 }
