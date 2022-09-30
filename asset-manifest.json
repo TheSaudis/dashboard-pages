@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a56ea2f.css",
-    "main.js": "/static/js/main.4d3a6097.js",
+    "main.css": "/static/css/main.d8b27b73.css",
+    "main.js": "/static/js/main.178a2910.js",
     "static/js/314.f56430e7.chunk.js": "/static/js/314.f56430e7.chunk.js",
     "static/js/906.8dde66ee.chunk.js": "/static/js/906.8dde66ee.chunk.js",
     "static/media/The-Bazaar-Banner.png": "/static/media/The-Bazaar-Banner.81a3e989fbdd768985c9.png",
@@ -29,7 +29,7 @@
     "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.7a56ea2f.css",
-    "static/js/main.4d3a6097.js"
+    "static/css/main.d8b27b73.css",
+    "static/js/main.178a2910.js"
   ]
 }
